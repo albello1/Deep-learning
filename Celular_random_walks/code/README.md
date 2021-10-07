@@ -1,0 +1,1 @@
+To execute the following code simply run the main named train.py, from within it you must touch the hyperparameters to adjust the type of training you want. In addition, CNN networks can be made from the script networks.py, which have some clear examples of use.
